@@ -1,4 +1,4 @@
-# JavaScript-exercises_lesson04
+# JavaScript 3-part exercises
 
 ### EXERCISE 1: Guess the random number 
 
